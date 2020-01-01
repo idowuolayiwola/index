@@ -1,0 +1,4 @@
+<?php
+echo "Hello Everyone!";
+echo "What's going on";
+echo "Happy New Year";
